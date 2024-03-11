@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e817a98d041e4a248bd4e8bbffcb8ac7/artifacts
+end_time: 1710119461968
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e817a98d041e4a248bd4e8bbffcb8ac7
+run_name: unleashed-newt-886
+run_uuid: e817a98d041e4a248bd4e8bbffcb8ac7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710119456422
+status: 4
+tags: []
+user_id: elicoubuntu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0021eb74389f42518d36477095ae6ff4/artifacts
+end_time: 1710119428288
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0021eb74389f42518d36477095ae6ff4
+run_name: nosy-whale-934
+run_uuid: 0021eb74389f42518d36477095ae6ff4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710119423217
+status: 4
+tags: []
+user_id: elicoubuntu

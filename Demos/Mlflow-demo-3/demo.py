@@ -51,9 +51,6 @@ def train_estimator(alpha=0.5, l1_ratio=0.5, verbose=1):
     x, y = load_data()
     x_train, x_test, y_train, y_test = make_train_test_split(x, y)
 
-    # Configurar la URI de artefactos
-    mlflow.set_tracking_uri(mlflow.get_tracking_uri())
-
     print('Tracking directory:', mlflow.get_tracking_uri())
 
     with mlflow.start_run():
@@ -83,7 +80,6 @@ def train_estimator(alpha=0.5, l1_ratio=0.5, verbose=1):
         #
         mlflow.sklearn.log_model(estimator, "model")
 
-        
     # -------------------------------------------------------------------------
     # Ya no se requiere con MLflow
     # -------------------------------------------------------------------------
@@ -97,10 +93,7 @@ def train_estimator(alpha=0.5, l1_ratio=0.5, verbose=1):
     # save_best_estimator(best_estimator)
 
 def main():
-    import mlflow
-# Configurar la URI de seguimiento local
-    mlflow.set_tracking_uri("file:///home/elicoubuntu/Producto_de_Datos/Demos/Mlflow-demo-3/mlruns")
-
+    
     train_estimator(0.2, 0.2)
     train_estimator(0.1, 0.1)
     train_estimator(0.1, 0.05)

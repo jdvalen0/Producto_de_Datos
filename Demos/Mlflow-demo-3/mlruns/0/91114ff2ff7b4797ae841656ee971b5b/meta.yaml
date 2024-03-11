@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/91114ff2ff7b4797ae841656ee971b5b/artifacts
+end_time: 1710119142599
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91114ff2ff7b4797ae841656ee971b5b
+run_name: valuable-pug-431
+run_uuid: 91114ff2ff7b4797ae841656ee971b5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710119137010
+status: 4
+tags: []
+user_id: elicoubuntu
