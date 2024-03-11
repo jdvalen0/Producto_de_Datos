@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/21bde6d77f544cb78e5c80b02744109c/artifacts
+end_time: 1710114372627
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21bde6d77f544cb78e5c80b02744109c
+run_name: peaceful-koi-279
+run_uuid: 21bde6d77f544cb78e5c80b02744109c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710114366831
+status: 4
+tags: []
+user_id: elicoubuntu

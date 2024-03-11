@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e335f8f4e09a49e6a7652dc4ea697709/artifacts
+end_time: 1710115078426
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e335f8f4e09a49e6a7652dc4ea697709
+run_name: mysterious-cow-480
+run_uuid: e335f8f4e09a49e6a7652dc4ea697709
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710115071601
+status: 4
+tags: []
+user_id: elicoubuntu

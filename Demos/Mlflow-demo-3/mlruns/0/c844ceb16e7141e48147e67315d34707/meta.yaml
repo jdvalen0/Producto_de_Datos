@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c844ceb16e7141e48147e67315d34707/artifacts
+end_time: 1710112214141
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c844ceb16e7141e48147e67315d34707
+run_name: nimble-loon-603
+run_uuid: c844ceb16e7141e48147e67315d34707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710112206960
+status: 4
+tags: []
+user_id: elicoubuntu

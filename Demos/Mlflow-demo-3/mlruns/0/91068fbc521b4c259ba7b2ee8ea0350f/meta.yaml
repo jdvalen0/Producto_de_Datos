@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/91068fbc521b4c259ba7b2ee8ea0350f/artifacts
+end_time: 1710113705394
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91068fbc521b4c259ba7b2ee8ea0350f
+run_name: delicate-midge-40
+run_uuid: 91068fbc521b4c259ba7b2ee8ea0350f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710113699147
+status: 4
+tags: []
+user_id: elicoubuntu

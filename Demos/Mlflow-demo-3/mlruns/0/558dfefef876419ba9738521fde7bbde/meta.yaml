@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/558dfefef876419ba9738521fde7bbde/artifacts
+end_time: 1710112529542
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 558dfefef876419ba9738521fde7bbde
+run_name: smiling-shrimp-815
+run_uuid: 558dfefef876419ba9738521fde7bbde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710112520658
+status: 4
+tags: []
+user_id: elicoubuntu

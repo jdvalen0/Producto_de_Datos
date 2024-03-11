@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/36239dbb529c42f69a2014d98d04959c/artifacts
+end_time: 1710114820883
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36239dbb529c42f69a2014d98d04959c
+run_name: nimble-finch-779
+run_uuid: 36239dbb529c42f69a2014d98d04959c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710114815244
+status: 4
+tags: []
+user_id: elicoubuntu
