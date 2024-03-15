@@ -95,8 +95,7 @@ def train_estimator(alpha=0.5, l1_ratio=0.5, verbose=1):
 def main():
     
     train_estimator(0.2, 0.2)
-    train_estimator(0.1, 0.1)
-    train_estimator(0.1, 0.05)
+    
 
 if __name__== "__main__":
     main()

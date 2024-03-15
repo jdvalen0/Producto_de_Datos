@@ -1,0 +1,15 @@
+artifact_uri: //home/elicoubuntu/Producto_de_Datos/Demos/Mlflow-demo-3/workspace/mlflow/corridas/678094588728581938/2ee4e0f012704edd82f5b28b21255cfb/artifacts
+end_time: 1710466615172
+entry_point_name: ''
+experiment_id: '678094588728581938'
+lifecycle_stage: active
+run_id: 2ee4e0f012704edd82f5b28b21255cfb
+run_name: indecisive-bat-427
+run_uuid: 2ee4e0f012704edd82f5b28b21255cfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710466605744
+status: 3
+tags: []
+user_id: elicoubuntu

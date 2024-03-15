@@ -1,0 +1,15 @@
+artifact_uri: //home/elicoubuntu/Producto_de_Datos/Demos/Mlflow-demo-3/workspace/mlflow/corridas/678094588728581938/c620fa3b4af54296b9b782c1e922c313/artifacts
+end_time: 1710466615172
+entry_point_name: ''
+experiment_id: '678094588728581938'
+lifecycle_stage: active
+run_id: c620fa3b4af54296b9b782c1e922c313
+run_name: sincere-fawn-678
+run_uuid: c620fa3b4af54296b9b782c1e922c313
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710466605744
+status: 3
+tags: []
+user_id: elicoubuntu

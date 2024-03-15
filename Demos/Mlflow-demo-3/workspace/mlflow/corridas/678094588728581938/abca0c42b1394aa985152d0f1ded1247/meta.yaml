@@ -1,0 +1,15 @@
+artifact_uri: //home/elicoubuntu/Producto_de_Datos/Demos/Mlflow-demo-3/workspace/mlflow/corridas/678094588728581938/abca0c42b1394aa985152d0f1ded1247/artifacts
+end_time: 1710466615539
+entry_point_name: ''
+experiment_id: '678094588728581938'
+lifecycle_stage: active
+run_id: abca0c42b1394aa985152d0f1ded1247
+run_name: stylish-wasp-11
+run_uuid: abca0c42b1394aa985152d0f1ded1247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710466605744
+status: 3
+tags: []
+user_id: elicoubuntu

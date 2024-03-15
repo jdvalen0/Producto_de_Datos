@@ -1,0 +1,15 @@
+artifact_uri: //home/elicoubuntu/Producto_de_Datos/Demos/Mlflow-demo-3/workspace/mlflow/corridas/678094588728581938/86280569b717438bbf32a7298c41bedb/artifacts
+end_time: 1710466604547
+entry_point_name: ''
+experiment_id: '678094588728581938'
+lifecycle_stage: active
+run_id: 86280569b717438bbf32a7298c41bedb
+run_name: lyrical-cow-321
+run_uuid: 86280569b717438bbf32a7298c41bedb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710466593560
+status: 3
+tags: []
+user_id: elicoubuntu

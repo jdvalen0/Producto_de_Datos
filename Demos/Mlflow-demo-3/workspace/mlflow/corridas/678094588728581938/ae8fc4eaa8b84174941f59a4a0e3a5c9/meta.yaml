@@ -1,0 +1,15 @@
+artifact_uri: //home/elicoubuntu/Producto_de_Datos/Demos/Mlflow-demo-3/workspace/mlflow/corridas/678094588728581938/ae8fc4eaa8b84174941f59a4a0e3a5c9/artifacts
+end_time: 1710466604547
+entry_point_name: ''
+experiment_id: '678094588728581938'
+lifecycle_stage: active
+run_id: ae8fc4eaa8b84174941f59a4a0e3a5c9
+run_name: righteous-frog-75
+run_uuid: ae8fc4eaa8b84174941f59a4a0e3a5c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710466593560
+status: 3
+tags: []
+user_id: elicoubuntu

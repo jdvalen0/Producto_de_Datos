@@ -1,0 +1,15 @@
+artifact_uri: //home/elicoubuntu/Producto_de_Datos/Demos/Mlflow-demo-3/workspace/mlflow/corridas/678094588728581938/97fdf32e4d324c62833b8a44ff062b33/artifacts
+end_time: 1710466604547
+entry_point_name: ''
+experiment_id: '678094588728581938'
+lifecycle_stage: active
+run_id: 97fdf32e4d324c62833b8a44ff062b33
+run_name: sincere-shad-337
+run_uuid: 97fdf32e4d324c62833b8a44ff062b33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710466593560
+status: 3
+tags: []
+user_id: elicoubuntu

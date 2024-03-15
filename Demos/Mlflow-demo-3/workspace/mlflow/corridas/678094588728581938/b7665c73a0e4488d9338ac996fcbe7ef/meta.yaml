@@ -1,0 +1,15 @@
+artifact_uri: //home/elicoubuntu/Producto_de_Datos/Demos/Mlflow-demo-3/workspace/mlflow/corridas/678094588728581938/b7665c73a0e4488d9338ac996fcbe7ef/artifacts
+end_time: 1710466604547
+entry_point_name: ''
+experiment_id: '678094588728581938'
+lifecycle_stage: active
+run_id: b7665c73a0e4488d9338ac996fcbe7ef
+run_name: youthful-wolf-490
+run_uuid: b7665c73a0e4488d9338ac996fcbe7ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710466593560
+status: 3
+tags: []
+user_id: elicoubuntu

@@ -1,0 +1,15 @@
+artifact_uri: //home/elicoubuntu/Producto_de_Datos/Demos/Mlflow-demo-3/workspace/mlflow/corridas/678094588728581938/cbf28c5d9de74b4193ebb80490c4858d/artifacts
+end_time: 1710466604933
+entry_point_name: ''
+experiment_id: '678094588728581938'
+lifecycle_stage: active
+run_id: cbf28c5d9de74b4193ebb80490c4858d
+run_name: honorable-shrew-679
+run_uuid: cbf28c5d9de74b4193ebb80490c4858d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710466593560
+status: 3
+tags: []
+user_id: elicoubuntu

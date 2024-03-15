@@ -1,0 +1,15 @@
+artifact_uri: //home/elicoubuntu/Producto_de_Datos/Demos/Mlflow-demo-3/workspace/mlflow/corridas/678094588728581938/c221c849ccfc427aaf77ca235eeb9f54/artifacts
+end_time: 1710466604547
+entry_point_name: ''
+experiment_id: '678094588728581938'
+lifecycle_stage: active
+run_id: c221c849ccfc427aaf77ca235eeb9f54
+run_name: gregarious-steed-198
+run_uuid: c221c849ccfc427aaf77ca235eeb9f54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710466593560
+status: 3
+tags: []
+user_id: elicoubuntu

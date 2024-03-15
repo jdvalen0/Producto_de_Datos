@@ -1,0 +1,15 @@
+artifact_uri: //home/elicoubuntu/Producto_de_Datos/Demos/Mlflow-demo-3/workspace/mlflow/corridas/678094588728581938/d650484bf9b041edb7a9e6ecc3fea243/artifacts
+end_time: 1710466615172
+entry_point_name: ''
+experiment_id: '678094588728581938'
+lifecycle_stage: active
+run_id: d650484bf9b041edb7a9e6ecc3fea243
+run_name: caring-ant-226
+run_uuid: d650484bf9b041edb7a9e6ecc3fea243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710466605744
+status: 3
+tags: []
+user_id: elicoubuntu
