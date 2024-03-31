@@ -1,0 +1,15 @@
+artifact_uri: file:///home/elicoubuntu/Producto_de_Datos/Demos/mlflow-demo-storage-format/mlruns/0/d60d614f77214003a40df85fef711895/artifacts
+end_time: 1711911617773
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d60d614f77214003a40df85fef711895
+run_name: grandiose-mole-431
+run_uuid: d60d614f77214003a40df85fef711895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711911615248
+status: 4
+tags: []
+user_id: elicoubuntu

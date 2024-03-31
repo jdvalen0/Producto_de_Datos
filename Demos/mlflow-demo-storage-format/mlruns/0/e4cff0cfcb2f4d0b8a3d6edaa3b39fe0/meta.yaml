@@ -1,0 +1,15 @@
+artifact_uri: file:///home/elicoubuntu/Producto_de_Datos/Demos/mlflow-demo-storage-format/mlruns/0/e4cff0cfcb2f4d0b8a3d6edaa3b39fe0/artifacts
+end_time: 1711911996769
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4cff0cfcb2f4d0b8a3d6edaa3b39fe0
+run_name: awesome-dove-697
+run_uuid: e4cff0cfcb2f4d0b8a3d6edaa3b39fe0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711911994364
+status: 4
+tags: []
+user_id: elicoubuntu

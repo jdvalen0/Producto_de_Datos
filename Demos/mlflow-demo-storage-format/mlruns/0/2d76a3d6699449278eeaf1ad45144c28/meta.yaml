@@ -1,0 +1,15 @@
+artifact_uri: file:///home/elicoubuntu/Producto_de_Datos/Demos/mlflow-demo-storage-format/mlruns/0/2d76a3d6699449278eeaf1ad45144c28/artifacts
+end_time: 1711911485797
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d76a3d6699449278eeaf1ad45144c28
+run_name: gentle-midge-456
+run_uuid: 2d76a3d6699449278eeaf1ad45144c28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711911483101
+status: 4
+tags: []
+user_id: elicoubuntu

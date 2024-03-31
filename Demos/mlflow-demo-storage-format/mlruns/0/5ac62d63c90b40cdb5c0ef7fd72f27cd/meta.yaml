@@ -1,0 +1,15 @@
+artifact_uri: file:///home/elicoubuntu/Producto_de_Datos/Demos/mlflow-demo-storage-format/mlruns/0/5ac62d63c90b40cdb5c0ef7fd72f27cd/artifacts
+end_time: 1711912477569
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ac62d63c90b40cdb5c0ef7fd72f27cd
+run_name: flawless-shrike-846
+run_uuid: 5ac62d63c90b40cdb5c0ef7fd72f27cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711912473850
+status: 3
+tags: []
+user_id: elicoubuntu
